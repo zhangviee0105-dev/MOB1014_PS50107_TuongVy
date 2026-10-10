@@ -19,7 +19,6 @@ public class hinhtron {
         cv = r*2*PI;
         dt = r*r*PI;
         System.out.printf("Duong tron co ban kinh: %.2f\nChu vi: %2f\nDien tich: %.2f",r,cv,dt);
-        
     }
     
 }
